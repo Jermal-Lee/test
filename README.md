@@ -2,7 +2,7 @@
 
 markdown
 ### is
-## very
+## super
 # fun
 
 -----------------------
@@ -11,7 +11,7 @@ this is a [link](https://github.com/Jermal-Lee)
 
 
 Bullet Points!
-* hello
+* hey there
 * bullet
 * hi
 
